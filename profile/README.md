@@ -3,7 +3,7 @@
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flexn-io/.github/raw/main/profile/flexn.png">
-  <img alt="flexn logo" width="400" src="https://github.com/flexn-io/.github/raw/main/profile/flexn.png">
+  <img alt="flexn logo" width="1000" src="https://github.com/flexn-io/.github/raw/main/profile/flexn.png">
   
 </picture>
  
