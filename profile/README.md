@@ -2,8 +2,8 @@
 
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flexn-io/.github/raw/main/profile/flexn.png">
-  <img alt="flexn logo" width="1000" src="https://github.com/flexn-io/.github/raw/main/profile/flexn.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flexn-io/.github/raw/main/profile/flexn_bootstrap_develop_release.png">
+  <img alt="flexn bootstrap develop release" width="1000" src="https://github.com/flexn-io/.github/raw/main/profile/flexn_bootstrap_develop_release.png">
   
 </picture>
  
