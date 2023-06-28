@@ -11,4 +11,4 @@
 
 # Omnidirectional Product Platform
 
-Flexn provides one unified development, collaboration, and deployment cloud platform with unparalleled scalability and go to market capabilities
+Flexn provides one unified development, collaboration, and deployment cloud platform
